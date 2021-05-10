@@ -518,6 +518,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"inside_pub_by_candacis",
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
